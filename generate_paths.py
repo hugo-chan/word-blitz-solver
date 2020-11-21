@@ -1,7 +1,5 @@
-import pyautogui
 import math
 import copy
-import time
 import random
 
 def get_condensed_dict(board_letters):

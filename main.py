@@ -1,8 +1,5 @@
 import pyautogui
-import math
-import copy
 import time
-import random
 from generate_paths import generate_paths
 
 TOP_LEFT = (797, 544) # x = 797, y = 544 is the center of the top left cell
